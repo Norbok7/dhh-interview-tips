@@ -15,3 +15,16 @@
 # in this example, we demonstrate how to display messages and current index in a simple and elegant way
 # using Ruby's built-in methods to achieve the desired output without unnecessary complexity
 
+def initialize(name)
+  @name = name
+end
+
+def make_sound
+  puts "Hello, I'm #{@name}!"
+end
+
+
+#if conditional
+
+
+
